@@ -1,0 +1,29 @@
+
+.bar-title{
+    content: "";
+    display: block;
+    width: 50px;
+    height: 4px;
+    background: rgb(230, 230, 6);
+
+}
+section{
+    padding-top: 100px;
+  }
+h2{
+    color: rgb(221, 221, 1);
+}
+html{scroll-behavior: smooth;}
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+
+.mat-radio-button.mat-accent .mat-radio-inner-circle{
+    background-color: #149ddd!important;
+}
+.mat-radio-button.mat-accent.mat-radio-checked .mat-radio-outer-circle{
+    border-color: #149ddd!important;
+}
+.mat-radio-outer-circle{
+    border-color: white!important;
+}
